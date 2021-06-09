@@ -1,0 +1,37 @@
+.gradle
+build
+out
+!gradle/wrapper/gradle-wrapper.jar
+*/csv
+*/sql
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### eclipse ###
+bin/
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### VSCode ###
+.vscode
+
+### Mac ###
+.DS_Store
